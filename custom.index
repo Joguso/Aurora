@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Custom</name>
+		<description>Content from Joguso.</description>
+		<author>Joguso</author>
+		<update version="1.0.0">
+			<file name="custom.index" url="https://raw.githubusercontent.com/Joguso/Aurora/master/custom.index" />
+		</update>
+	</info>
+	<files>
+		<file name="internal.xml" url="https://raw.githubusercontent.com/Joguso/Aurora/master/custom/internal.xml" />
+	</files>
+</index>
