@@ -1,10 +1,7 @@
 # Aurora
 Additional content to extend [Aurora](https://aurorabuilder.com/), by Joguso.
 
-index url: https://raw.githubusercontent.com/yourgithubaccount/repositoryname/master/user-yourname.index
-index url: https://raw.githubusercontent.com/Joguso/Aurora/master/custom.index
-
----
+https://raw.githubusercontent.com/Joguso/Aurora/master/custom.index
 
 Instructions to get started with the repository:
 - Replace ***yourname*** in the index filename, the user-yourname folder, this readme, and all the urls in each file;
